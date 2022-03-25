@@ -1,0 +1,4 @@
+C:\Users\hoak\Desktop\Questao02\Questao02\x64\Debug\Questao02.vcxproj.AssemblyReference.cache
+C:\Users\hoak\Desktop\Questao02\Questao02\x64\Debug\Questao02.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hoak\Desktop\Questao02\Questao02\x64\Debug\Questao02.FormPrincipal.resources
+C:\Users\hoak\Desktop\Questao02\Questao02\x64\Debug\Questao02.vcxproj.GenerateResource.cache
